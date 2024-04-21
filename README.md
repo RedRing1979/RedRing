@@ -32,8 +32,8 @@ I don't test environments under Linux and Mac.
 * RedRing
 * RedRing Inc.
 * [Twitter RedRing](https://twitter.com/RedRing2020)
-* [Facebook RedRing](https://www.facebook.com/redring1979)
-* [Instagram RedRing](https://www.instagram.com/redring1979)
+* [Facebook RedRing](https://www.facebook.com/redring2020)
+* [Instagram RedRing](https://www.instagram.com/redring2020)
 * [Qiita RedRing](https://qiita.com/redring)
 * [ameblo RedRing](https://ameblo.jp/redring1979)
 
